@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vishwa/Desktop/College/Academics/Semester 7 - Fall 2021/Computer Organization/cacheSimulator/main.cpp
+iostream
+-
+vector
+-
+math.h
+-
+fstream
+-
+map
+-
+
